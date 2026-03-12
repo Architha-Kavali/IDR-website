@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="60,20 90,40 60,60 30,40"
+fill="#FF6B00"/>
+
+<polygon points="60,60 90,40 90,80 60,100"
+fill="#FF8C00"/>
+
+<polygon points="60,60 30,40 30,80 60,100"
+fill="#000000"/>
+
+</svg>
